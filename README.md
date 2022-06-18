@@ -30,7 +30,8 @@ Light – Reflection and Refraction.........(Atul)
      }
      .e{
          color: rgb(255, 0, 0);
-         height: 52px;
+         height: 80px;
+     
      }
 
      .f{
