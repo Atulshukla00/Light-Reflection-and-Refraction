@@ -1,8 +1,6 @@
 # Light-Reflection-and-Refraction
 Light – Reflection and Refraction.........(Atul)
  
- 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
