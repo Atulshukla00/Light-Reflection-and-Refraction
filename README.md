@@ -391,10 +391,11 @@ Light – Reflection and Refraction.........(Atul)
                                         
                                                                            
                                         
-                   ![download](https://user-images.githubusercontent.com/107378953/175805851-63da9e9a-10d5-47c7-93d3-606b63fb4334.png)
+               
 
                       
-                                                         
+                                                         ![spherical-mirrors-10-638](https://user-images.githubusercontent.com/107378953/175809724-c54f2ff2-91c4-400b-9870-735626697998.jpg)
+
                             
                     <div class="n">                    
                     <h1>End </h1></div>
