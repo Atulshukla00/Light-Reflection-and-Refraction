@@ -398,7 +398,9 @@ Light – Reflection and Refraction.........(Atul)
 
 
 
-                                        <!-- <img src="1606565184436-01-01" alt="killer image"> -->
+                       <img src="Concave+Mirror+Real+images+occur+when+the+object+is+further+away+from+the+focal+point.+Reflected+rays+meet+in+front+of+the+mirror..jpg" alt="">                     
+                    <img src="download.png" alt=""></div>
+                    <img src="spherical-mirrors-10-638.jpg" alt="">                  
                     <div class="n">                    
                     <h1>End </h1></div>
                     <div class="m">
