@@ -109,7 +109,7 @@ Light – Reflection and Refraction.........(Atul)
     <div class="b">
      
 
-   <p> <i>Atul Killer</i></p></div></div>
+   <p> <i>Atul </i></p></div></div>
      
        <div class="e">
     <h1>Light – Reflection and
